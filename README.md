@@ -10,7 +10,7 @@ I'm looking for **software engineering internships** and **new-grad roles**.
 |---|---|---|
 | [**Embedded Key-Value Store**](https://github.com/ethanschivel/embedded-key-value-store) | A storage engine built from scratch, with write-ahead logging, checkpointing and crash recovery | Python |
 | [**Job Scheduler**](https://github.com/ethanschivel/distributed-job-scheduler) | A concurrent job scheduler with a worker thread pool, retries and status tracking | Java |
-| [**Collab Editor**](https://github.com/ethanschivel/collab-editor) | A real-time collaborative text editor that uses CRDTs to sync edits over WebSockets | React, Node.js, Yjs |
+| [**Collab Editor**](https://github.com/ethanschivel/collab-editor) | A real-time collaborative text editor with live cursors, accounts and autosave · [**live demo**](https://collab-editor-xrgv.onrender.com) | React, Node.js, Yjs, PostgreSQL |
 
 ## Tech
 
